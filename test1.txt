@@ -1,0 +1,146 @@
+Current time: 0
+Waiting clients: (4, 3, 4);(2, 11, 3);(3, 18, 2);(1, 24, 4);
+Server: 1: closed
+Server: 2: closed
+
+Current time: 1
+Waiting clients: (4, 3, 4);(2, 11, 3);(3, 18, 2);(1, 24, 4);
+Server: 1: closed
+Server: 2: closed
+
+Current time: 2
+Waiting clients: (4, 3, 4);(2, 11, 3);(3, 18, 2);(1, 24, 4);
+Server: 1: closed
+Server: 2: closed
+
+Current time: 3
+Waiting clients: (2, 11, 3);(3, 18, 2);(1, 24, 4);
+Server: 1: (4, 3, 4);
+Server: 2: closed
+
+Current time: 4
+Waiting clients: (2, 11, 3);(3, 18, 2);(1, 24, 4);
+Server: 1: (4, 3, 3);
+Server: 2: closed
+
+Current time: 5
+Waiting clients: (2, 11, 3);(3, 18, 2);(1, 24, 4);
+Server: 1: (4, 3, 2);
+Server: 2: closed
+
+Current time: 6
+Waiting clients: (2, 11, 3);(3, 18, 2);(1, 24, 4);
+Server: 1: (4, 3, 1);
+Server: 2: closed
+
+Current time: 7
+Waiting clients: (2, 11, 3);(3, 18, 2);(1, 24, 4);
+Server: 1: closed
+Server: 2: closed
+
+Current time: 8
+Waiting clients: (2, 11, 3);(3, 18, 2);(1, 24, 4);
+Server: 1: closed
+Server: 2: closed
+
+Current time: 9
+Waiting clients: (2, 11, 3);(3, 18, 2);(1, 24, 4);
+Server: 1: closed
+Server: 2: closed
+
+Current time: 10
+Waiting clients: (2, 11, 3);(3, 18, 2);(1, 24, 4);
+Server: 1: closed
+Server: 2: closed
+
+Current time: 11
+Waiting clients: (3, 18, 2);(1, 24, 4);
+Server: 1: (2, 11, 3);
+Server: 2: closed
+
+Current time: 12
+Waiting clients: (3, 18, 2);(1, 24, 4);
+Server: 1: (2, 11, 2);
+Server: 2: closed
+
+Current time: 13
+Waiting clients: (3, 18, 2);(1, 24, 4);
+Server: 1: (2, 11, 1);
+Server: 2: closed
+
+Current time: 14
+Waiting clients: (3, 18, 2);(1, 24, 4);
+Server: 1: closed
+Server: 2: closed
+
+Current time: 15
+Waiting clients: (3, 18, 2);(1, 24, 4);
+Server: 1: closed
+Server: 2: closed
+
+Current time: 16
+Waiting clients: (3, 18, 2);(1, 24, 4);
+Server: 1: closed
+Server: 2: closed
+
+Current time: 17
+Waiting clients: (3, 18, 2);(1, 24, 4);
+Server: 1: closed
+Server: 2: closed
+
+Current time: 18
+Waiting clients: (1, 24, 4);
+Server: 1: (3, 18, 2);
+Server: 2: closed
+
+Current time: 19
+Waiting clients: (1, 24, 4);
+Server: 1: (3, 18, 1);
+Server: 2: closed
+
+Current time: 20
+Waiting clients: (1, 24, 4);
+Server: 1: closed
+Server: 2: closed
+
+Current time: 21
+Waiting clients: (1, 24, 4);
+Server: 1: closed
+Server: 2: closed
+
+Current time: 22
+Waiting clients: (1, 24, 4);
+Server: 1: closed
+Server: 2: closed
+
+Current time: 23
+Waiting clients: (1, 24, 4);
+Server: 1: closed
+Server: 2: closed
+
+Current time: 24
+Waiting clients: 
+Server: 1: (1, 24, 4);
+Server: 2: closed
+
+Current time: 25
+Waiting clients: 
+Server: 1: (1, 24, 3);
+Server: 2: closed
+
+Current time: 26
+Waiting clients: 
+Server: 1: (1, 24, 2);
+Server: 2: closed
+
+Current time: 27
+Waiting clients: 
+Server: 1: (1, 24, 1);
+Server: 2: closed
+
+Current time: 28
+Waiting clients: 
+Server: 1: closed
+Server: 2: closed
+
+Average waiting time: 3.25
