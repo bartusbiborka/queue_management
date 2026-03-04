@@ -1,0 +1,7 @@
+# Exclude Javadocs from language statistics
+index-files/* linguist-documentation
+legal/* linguist-documentation
+org/* linguist-documentation
+resource-files/* linguist-documentation
+script-files/* linguist-documentation
+*.html linguist-documentation
