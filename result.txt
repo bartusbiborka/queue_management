@@ -1,61 +1,186 @@
 Current time: 0
-Waiting clients: (3, 1, 2);(2, 3, 2);(1, 4, 3);(5, 5, 2);(4, 6, 4);
+Waiting clients: (1, 1, 2);(4, 1, 10);(9, 1, 8);(6, 3, 10);(3, 4, 15);(8, 4, 4);(5, 7, 16);(7, 8, 8);(10, 9, 12);(2, 10, 12);
 Server: 1: closed
 Server: 2: closed
+Server: 3: closed
 
 Current time: 1
-Waiting clients: (2, 3, 2);(1, 4, 3);(5, 5, 2);(4, 6, 4);
-Server: 1: (3, 1, 2);
-Server: 2: closed
+Waiting clients: (6, 3, 10);(3, 4, 15);(8, 4, 4);(5, 7, 16);(7, 8, 8);(10, 9, 12);(2, 10, 12);
+Server: 1: (1, 1, 2);
+Server: 2: (4, 1, 10);
+Server: 3: (9, 1, 8);
 
 Current time: 2
-Waiting clients: (2, 3, 2);(1, 4, 3);(5, 5, 2);(4, 6, 4);
-Server: 1: (3, 1, 1);
-Server: 2: closed
+Waiting clients: (6, 3, 10);(3, 4, 15);(8, 4, 4);(5, 7, 16);(7, 8, 8);(10, 9, 12);(2, 10, 12);
+Server: 1: (1, 1, 1);
+Server: 2: (4, 1, 9);
+Server: 3: (9, 1, 7);
 
 Current time: 3
-Waiting clients: (1, 4, 3);(5, 5, 2);(4, 6, 4);
-Server: 1: (3, 1, 0);(2, 3, 2);
-Server: 2: closed
+Waiting clients: (3, 4, 15);(8, 4, 4);(5, 7, 16);(7, 8, 8);(10, 9, 12);(2, 10, 12);
+Server: 1: (6, 3, 10);
+Server: 2: (4, 1, 8);
+Server: 3: (9, 1, 6);
 
 Current time: 4
-Waiting clients: (5, 5, 2);(4, 6, 4);
-Server: 1: (2, 3, 1);
-Server: 2: (1, 4, 3);
+Waiting clients: (5, 7, 16);(7, 8, 8);(10, 9, 12);(2, 10, 12);
+Server: 1: (6, 3, 9);
+Server: 2: (4, 1, 7);(8, 4, 4);
+Server: 3: (9, 1, 5);(3, 4, 15);
 
 Current time: 5
-Waiting clients: (4, 6, 4);
-Server: 1: (5, 5, 2);
-Server: 2: (1, 4, 2);
+Waiting clients: (5, 7, 16);(7, 8, 8);(10, 9, 12);(2, 10, 12);
+Server: 1: (6, 3, 8);
+Server: 2: (4, 1, 6);(8, 4, 4);
+Server: 3: (9, 1, 4);(3, 4, 15);
 
 Current time: 6
-Waiting clients: 
-Server: 1: (5, 5, 1);(4, 6, 4);
-Server: 2: (1, 4, 1);
+Waiting clients: (5, 7, 16);(7, 8, 8);(10, 9, 12);(2, 10, 12);
+Server: 1: (6, 3, 7);
+Server: 2: (4, 1, 5);(8, 4, 4);
+Server: 3: (9, 1, 3);(3, 4, 15);
 
 Current time: 7
-Waiting clients: 
-Server: 1: (4, 6, 4);
-Server: 2: closed
+Waiting clients: (7, 8, 8);(10, 9, 12);(2, 10, 12);
+Server: 1: (6, 3, 6);(5, 7, 16);
+Server: 2: (4, 1, 4);(8, 4, 4);
+Server: 3: (9, 1, 2);(3, 4, 15);
 
 Current time: 8
-Waiting clients: 
-Server: 1: (4, 6, 3);
-Server: 2: closed
+Waiting clients: (10, 9, 12);(2, 10, 12);
+Server: 1: (6, 3, 5);(5, 7, 16);
+Server: 2: (4, 1, 3);(8, 4, 4);(7, 8, 8);
+Server: 3: (9, 1, 1);(3, 4, 15);
 
 Current time: 9
-Waiting clients: 
-Server: 1: (4, 6, 2);
-Server: 2: closed
+Waiting clients: (2, 10, 12);
+Server: 1: (6, 3, 4);(5, 7, 16);
+Server: 2: (4, 1, 2);(8, 4, 4);(7, 8, 8);(10, 9, 12);
+Server: 3: (3, 4, 15);
 
 Current time: 10
 Waiting clients: 
-Server: 1: (4, 6, 1);
-Server: 2: closed
+Server: 1: (6, 3, 3);(5, 7, 16);
+Server: 2: (4, 1, 1);(8, 4, 4);(7, 8, 8);(10, 9, 12);
+Server: 3: (3, 4, 14);(2, 10, 12);
 
 Current time: 11
 Waiting clients: 
-Server: 1: closed
-Server: 2: closed
+Server: 1: (6, 3, 2);(5, 7, 16);
+Server: 2: (8, 4, 4);(7, 8, 8);(10, 9, 12);
+Server: 3: (3, 4, 13);(2, 10, 12);
 
-Average waiting time: 2.8
+Current time: 12
+Waiting clients: 
+Server: 1: (6, 3, 1);(5, 7, 16);
+Server: 2: (8, 4, 3);(7, 8, 8);(10, 9, 12);
+Server: 3: (3, 4, 12);(2, 10, 12);
+
+Current time: 13
+Waiting clients: 
+Server: 1: (5, 7, 16);
+Server: 2: (8, 4, 2);(7, 8, 8);(10, 9, 12);
+Server: 3: (3, 4, 11);(2, 10, 12);
+
+Current time: 14
+Waiting clients: 
+Server: 1: (5, 7, 15);
+Server: 2: (8, 4, 1);(7, 8, 8);(10, 9, 12);
+Server: 3: (3, 4, 10);(2, 10, 12);
+
+Current time: 15
+Waiting clients: 
+Server: 1: (5, 7, 14);
+Server: 2: (7, 8, 8);(10, 9, 12);
+Server: 3: (3, 4, 9);(2, 10, 12);
+
+Current time: 16
+Waiting clients: 
+Server: 1: (5, 7, 13);
+Server: 2: (7, 8, 7);(10, 9, 12);
+Server: 3: (3, 4, 8);(2, 10, 12);
+
+Current time: 17
+Waiting clients: 
+Server: 1: (5, 7, 12);
+Server: 2: (7, 8, 6);(10, 9, 12);
+Server: 3: (3, 4, 7);(2, 10, 12);
+
+Current time: 18
+Waiting clients: 
+Server: 1: (5, 7, 11);
+Server: 2: (7, 8, 5);(10, 9, 12);
+Server: 3: (3, 4, 6);(2, 10, 12);
+
+Current time: 19
+Waiting clients: 
+Server: 1: (5, 7, 10);
+Server: 2: (7, 8, 4);(10, 9, 12);
+Server: 3: (3, 4, 5);(2, 10, 12);
+
+Current time: 20
+Waiting clients: 
+Server: 1: (5, 7, 9);
+Server: 2: (7, 8, 3);(10, 9, 12);
+Server: 3: (3, 4, 4);(2, 10, 12);
+
+Current time: 21
+Waiting clients: 
+Server: 1: (5, 7, 8);
+Server: 2: (7, 8, 2);(10, 9, 12);
+Server: 3: (3, 4, 3);(2, 10, 12);
+
+Current time: 22
+Waiting clients: 
+Server: 1: (5, 7, 7);
+Server: 2: (7, 8, 1);(10, 9, 12);
+Server: 3: (3, 4, 2);(2, 10, 12);
+
+Current time: 23
+Waiting clients: 
+Server: 1: (5, 7, 6);
+Server: 2: (10, 9, 12);
+Server: 3: (3, 4, 1);(2, 10, 12);
+
+Current time: 24
+Waiting clients: 
+Server: 1: (5, 7, 5);
+Server: 2: (10, 9, 11);
+Server: 3: (2, 10, 12);
+
+Current time: 25
+Waiting clients: 
+Server: 1: (5, 7, 4);
+Server: 2: (10, 9, 10);
+Server: 3: (2, 10, 11);
+
+Current time: 26
+Waiting clients: 
+Server: 1: (5, 7, 3);
+Server: 2: (10, 9, 9);
+Server: 3: (2, 10, 10);
+
+Current time: 27
+Waiting clients: 
+Server: 1: (5, 7, 2);
+Server: 2: (10, 9, 8);
+Server: 3: (2, 10, 9);
+
+Current time: 28
+Waiting clients: 
+Server: 1: (5, 7, 1);
+Server: 2: (10, 9, 7);
+Server: 3: (2, 10, 8);
+
+Current time: 29
+Waiting clients: 
+Server: 1: closed
+Server: 2: (10, 9, 6);
+Server: 3: (2, 10, 7);
+
+Current time: 30
+Waiting clients: 
+Server: 1: closed
+Server: 2: (10, 9, 5);
+Server: 3: (2, 10, 6);
+
